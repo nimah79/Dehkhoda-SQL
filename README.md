@@ -1,2 +1,2 @@
-# Dehkhoda-Dictionary-SQL
+# Dehkhoda Dictionary
 Dehkhoda Dictionary in SQL format
