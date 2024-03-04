@@ -38,5 +38,3 @@
 <p>Please follow our contributing guidelines for more details.</p>
 <h2>License</h2>
 <p>This project is licensed under the MIT License. Feel free to use the data, contribute, and share it with others.</p>
-<hr>
-<p>Feel free to replace the placeholders with actual content, and adapt the structure as needed. Happy documenting! 📚🌟</p>
